@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_profile">Data Profil</string>
+    <string name="affected_area">Area Terdampak</string>
+    <string name="data_approval">Data Approval</string>
+    <string name="data_payment">Data Pembayaran</string>
+    <string name="identity_card">No. KTP</string>
+</resources>

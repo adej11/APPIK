@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="reporter_name">Nama Pelapor</string>
+    <string name="report_date">Tanggal Lapor</string>
+    <string name="reporter_phone">No.Hp Pelapor</string>
+    <string name="reporter_address">Alamat Pelapor</string>
+    <string name="incident_date">Tanggal Kejadian</string>
+    <string name="incident_location">Lokasi Kejadian</string>
+    <string name="postal_code">Kode Pos</string>
+    <string name="cause_of_incident">Penyebab Kejadian</string>
+    <string name="description">Deskripsi Penyebab Kerugian</string>
+    <string name="chronology">Kronologi Kejadian</string>
+    <string name="insured_amount">Jumlah Pertanggungan</string>
+    <string name="data_claim">Data Klaim</string>
+    <string name="report">Data Pelapor</string>
+    <string name="no_polis">No.Polis</string>
+    <string name="register">Register</string>
+    <string name="data_profile">Data Profil</string>
+    <string name="affected_area">Area Terdampak</string>
+    <string name="data_approval">Data Approval</string>
+    <string name="data_payment">Data Pembayaran</string>
+    <string name="identity_card">No. KTP</string>
+</resources>
